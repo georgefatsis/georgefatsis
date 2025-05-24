@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georgefatsis
 - 👀 I’m interested in IoT
-- 📫 Reach me: fats_george@msn.com
 
 [![George Fatsis at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/george-fatsis.png)](https://www.codeabbey.com/index/user_profile/george-fatsis)
 
